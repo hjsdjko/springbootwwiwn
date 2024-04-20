@@ -1,6 +1,6 @@
 
 
-【需要源码：QQ联系 979748385 QQ群 601569450】
+【需要源码和论文：QQ联系 979748385 QQ群 601569450】
 
 推荐使用：谷歌浏览器 
 
@@ -20,3 +20,8 @@ http://localhost:8080/springbootxs5o6/admin/dist/index.html
 	    username: root
 	    password: 123456 （数据库密码）
 
+![输入图片说明](image.png)
+![输入图片说明](image1.png)
+![输入图片说明](image2.png)
+![输入图片说明](image3.png)
+![输入图片说明](image4.png)
